@@ -445,6 +445,4 @@
 
         gameTapEvent(fakeEvent);
     }
-
-    console.log("不修改，好嘛？乱传又有什么用呢？(ˉ▽ˉ；)...");
 }) (window);
