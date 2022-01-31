@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://zlczy.github.io/RapeCzy/index.html"><img src="https://github.com/zlczy/RapeCzy/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="RapeCzy"></a>
+  <a href="https://zlczy.github.io/RapeSenpai/index.html"><img src="https://github.com/zlczy/RapeSenpai/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="RapeCzy"></a>
 </p>
 <div align="center">
 
